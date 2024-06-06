@@ -5,6 +5,7 @@
 # Name of your site (displayed in the header)
 name: Nushla Pradhan
 
+
 # Short bio or description (displayed in the header)
 description: Summer 2024 DREU Project
 
@@ -12,7 +13,11 @@ description: Summer 2024 DREU Project
 avatar: https://nnushla.github.io/images/headshot.jpeg
 #
 # Flags below are optional
-#
+#department
+school: DePauw University, Department of Computer Science 
+grade: Rising Junior, Computer Science major, May 2026 
+email: nushlapradhan_2026@depauw.edu 
+
 
 # Includes an icon in the footer for each username you enter
 footer-links:
