@@ -1,22 +1,23 @@
 ---
 layout: default
-title: Summer 2020 DREU Project Site
+title: Summer 2024 DREU Project Site
 ---
 
 * TOC
 {:toc}
 
 ## About Me
-
-My info goes here.
+I am Nushla Pradhan(she/her), a Rising Junior at DePauw University majoring in Computer Science. I am currently working as a DREU intern at Gallaudet University's Accessible Information and Communication Technologies(AICT) program for the summer. I am passionate about the intersection of social issues and technology, and aim to  address accessibility and inclusivity gaps within the field.
 
 ## About My Mentor
 
-Mentor info goes here.
+Dr. Raja Kushalnagar is a Professor and Director of the Information Technology undergraduate program and Accessible Human-Centered Computing graduate program at Gallaudet University in Washington, DC. 
 
 ## About My Project
 
-Project description goes here.
+I will be working with the ASL Champ! team over the summer. I will be in assisting them to collect and train datasets to train deep learning algorithms that will power the sign recognition model in a new VR environment. 
+Through this project, I will be evaluating the effectiveness of the VR-based American Sign Language (ASL) learning tool and also be addressing limitations and prospects of this research arena.
+
 
 [My Final Report](files/finalreport.pdf)
 
