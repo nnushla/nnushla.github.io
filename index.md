@@ -11,7 +11,9 @@ I am Nushla Pradhan(she/her), a Rising Junior at DePauw University majoring in C
 
 ## About My Mentor
 
-Dr. Raja Kushalnagar is a Professor and Director of the Information Technology undergraduate program and Accessible Human-Centered Computing graduate program at Gallaudet University in Washington, DC. 
+Dr. Raja Kushalnagar is a Professor in the School of Science, Technology, Accessibility, Mathematics and Public Health at Gallaudet University in Washington, DC. He is also a Director of the Bachelor of Science Information Technology program, and Co-Director of the Accessible Human-Centered Computing Program. His research interests are in the fields of accessible computing and accessibility/intellectual property law, with the goal of improving information access for deaf and hard of hearing individuals
+
+https://gallaudet.edu/personnel/raja-kushalnagar/ 
 
 ## About My Project
 
