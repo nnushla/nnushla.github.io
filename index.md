@@ -21,7 +21,7 @@ I will be working with the ASL Champ! team over the summer. I will be in assisti
 Through this project, I will be evaluating the effectiveness of the VR-based American Sign Language (ASL) learning tool and also be addressing limitations and prospects of this research arena.
 
 
-[My Final Report](files/DREUpaper.pdf)
+[My Final Report](files/finalpaper.pdf)
 
 ## My Blog
 
